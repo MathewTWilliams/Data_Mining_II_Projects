@@ -1,0 +1,98 @@
+[
+ {
+  "address_components": [
+   {
+    "long_name": "3",
+    "short_name": "3",
+    "types": [
+     "street_number"
+    ]
+   },
+   {
+    "long_name": "Sunnybrook Court",
+    "short_name": "Sunnybrook Ct",
+    "types": [
+     "route"
+    ]
+   },
+   {
+    "long_name": "Stratford",
+    "short_name": "Stratford",
+    "types": [
+     "locality",
+     "political"
+    ]
+   },
+   {
+    "long_name": "Camden County",
+    "short_name": "Camden County",
+    "types": [
+     "administrative_area_level_2",
+     "political"
+    ]
+   },
+   {
+    "long_name": "New Jersey",
+    "short_name": "NJ",
+    "types": [
+     "administrative_area_level_1",
+     "political"
+    ]
+   },
+   {
+    "long_name": "United States",
+    "short_name": "US",
+    "types": [
+     "country",
+     "political"
+    ]
+   },
+   {
+    "long_name": "08084",
+    "short_name": "08084",
+    "types": [
+     "postal_code"
+    ]
+   },
+   {
+    "long_name": "1620",
+    "short_name": "1620",
+    "types": [
+     "postal_code_suffix"
+    ]
+   }
+  ],
+  "formatted_address": "3 Sunnybrook Ct, Stratford, NJ 08084, USA",
+  "geometry": {
+   "bounds": {
+    "northeast": {
+     "lat": 39.83189350000001,
+     "lng": -75.02376339999999
+    },
+    "southwest": {
+     "lat": 39.8317452,
+     "lng": -75.02397909999999
+    }
+   },
+   "location": {
+    "lat": 39.8318246,
+    "lng": -75.0238899
+   },
+   "location_type": "ROOFTOP",
+   "viewport": {
+    "northeast": {
+     "lat": 39.8331275802915,
+     "lng": -75.02254876970848
+    },
+    "southwest": {
+     "lat": 39.8304296197085,
+     "lng": -75.0252467302915
+    }
+   }
+  },
+  "place_id": "ChIJRSQc5prNxokRMpBgMVc9sb0",
+  "types": [
+   "premise"
+  ]
+ }
+]

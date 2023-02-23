@@ -1,0 +1,26 @@
+{
+ "destination_addresses": [
+  "1139 White Horse Rd, Voorhees Township, NJ 08043, USA"
+ ],
+ "origin_addresses": [
+  "3 Sunnybrook Ct, Stratford, NJ 08084, USA"
+ ],
+ "rows": [
+  {
+   "elements": [
+    {
+     "distance": {
+      "text": "5.7 km",
+      "value": 5679
+     },
+     "duration": {
+      "text": "10 mins",
+      "value": 614
+     },
+     "status": "OK"
+    }
+   ]
+  }
+ ],
+ "status": "OK"
+}
